@@ -20,7 +20,7 @@ Através de datasets que reúnem dados variados de tráfego normal e anormal, po
 
 Este projeto tem o objetivo de utilizar técnicas de Machine Learning para o treino desses modelos e também entender mais sobre esses ataques, em um estudo misto de Ciência de Dados/IA e Cibersegurança/Redes. É um estudo não necessariamente focado em encontrar a melhor solução para cada caso, mas em explorar soluções e técnicas, entender o comportamento das anomalias por meio de análises estatísticas e construir uma boa base nesses temas fazendo estudos complementares que venham a ser úteis para a verdadeira compreensão do caso.
 
-As análises são feitas originalmente no Google Colab e estão com uma cópia neste repositório (o link para o Colab está no início da cópia). Não há só código, mas explicação do código e dos conceitos utilizados neste.
+As análises são feitas originalmente no Google Colab e estão com uma cópia neste repositório (o link para o Colab está no início da cópia). Não há só código, mas explicação do código e dos conceitos utilizados neste. Para cada um, existe uma versão em inglês e uma em português.
 
 ---
 
