@@ -62,7 +62,7 @@ Os datasets utilizados nesse projeto são:
 | **macro avg** | 0.86 | 0.90 | 0.88 | 22544 |
 | **weighted avg** | 0.99 | 0.99 | 0.99 | 22544 |
 
-[img]
+![NSL Confusion Matrix](img/confusion_matrix_nsl-kdd.png)
 
 **Conclusões:**
 
