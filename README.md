@@ -1,7 +1,6 @@
 # Detecção de Intrusão em Redes com Machine Learning
 
 [![Status do Projeto](https://img.shields.io/badge/status-em%20andamento-yellow)](https://github.com/SEU_USUARIO/SEU_REPOSITORIO)
-[![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-blue)](LICENSE)
 
 ---
 
