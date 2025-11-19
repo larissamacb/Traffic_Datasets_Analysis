@@ -10,7 +10,7 @@
 - [Datasets Analisados](#datasets-analisados)
 - [NSL-KDD](#nsl-kdd)
 - [UNSW-NB15](#unsw-nb15)
-- [CICIDS2017](#cicids2017)
+- [CIC-IDS-2017](#cic-ids-2017)
 
 ---
 
@@ -36,7 +36,7 @@ Os datasets utilizados nesse projeto são:
 * **Status:** Em andamento
 * **Descrição:** --
 
-### 3. CICIDS2017
+### 3. CIC-IDS-2017
 * **Status:** A iniciar
 * **Descrição:** --
 
@@ -90,7 +90,7 @@ O resultado final (F1-Macro de 0.88) é excelente, com performance quase perfeit
 
 ---
 
-## 3️⃣ CICIDS2017
+## 3️⃣ CIC-IDS-2017
 
 * **Pré-processamento:** --
 * **Metodologia Principal:** --
